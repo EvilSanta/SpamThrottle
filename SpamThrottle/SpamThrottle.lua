@@ -23,7 +23,7 @@
 --============================
 --= Settings, Defaults, and Local Variables
 --============================
-local DebugMsg = true;
+local DebugMsg = false;
 local ErrorMsg = true;
 local DebugMode = false;
 local BlockReportMode = false;
